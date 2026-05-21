@@ -16,9 +16,17 @@ Kelley School of Business student studying Management Information Systems and Bu
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| Encrypted Chatroom | Browser-encrypted chat relay with hashed rooms and no server-side message history | Node.js, WebSocket, Web Crypto API |
-| Operations Analytics Decision Dashboard | Tracks supply-chain and logistics risk using live news RSS signals and KPI-style reporting | Python, RSS, Markdown analytics |
-| JobFit Resume Intelligence Tracker | Scores live job leads against resume keywords and produces a recruiting pipeline report | Python, Remotive API, RSS |
+| [Encrypted Chatroom](https://github.com/walkerprocess/career-projects/tree/main/01-encrypted-chatroom) | Browser-encrypted chat relay with hashed rooms and no server-side message history | Node.js, WebSocket, Web Crypto API |
+| [Operations Analytics Decision Dashboard](https://github.com/walkerprocess/career-projects/tree/main/02-operations-analytics-dashboard) | Tracks supply-chain and logistics risk using live news RSS signals and KPI-style reporting | Python, RSS, Markdown analytics |
+| [JobFit Resume Intelligence Tracker](https://github.com/walkerprocess/career-projects/tree/main/03-jobfit-resume-intelligence) | Scores live job leads against resume keywords and produces a recruiting pipeline report | Python, Remotive API, RSS |
+
+## MSAI Bootcamp Projects
+
+| Project | What it does | Career signal |
+| --- | --- | --- |
+| [FIND_MY_HOMES](https://github.com/walkerprocess/FIND_MY_HOMES) | AI-powered KakaoTalk chatbot using retrieval-augmented generation to summarize mortgage and rental documents | RAG systems, document intelligence, fintech/product workflow |
+| [aigorotten](https://github.com/walkerprocess/aigorotten) | Camera-integrated AI model for detecting and classifying fruit and vegetable freshness, reaching 96.5% classification accuracy in the bootcamp project | Computer vision, model evaluation, practical AI deployment |
+| [Memento_Box](https://github.com/walkerprocess/Memento_Box) | Award-winning AI reminiscence therapy system for elderly patients with Alzheimer’s, enabling photo-based memory recall conversations | Human-centered AI, healthcare impact, project leadership |
 
 ## What I Am Building Toward
 
@@ -45,4 +53,3 @@ I am preparing for U.S. internships in:
 - Dashboard and KPI storytelling
 - Product requirements and user journeys
 - Security fundamentals and cryptography basics
-
